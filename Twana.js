@@ -103,14 +103,14 @@ const Twana100= new Discord.Client();
 
 
 
-Twana1.login("");
-Twana2.login("");
-Twana3.login("");
-Twana4.login("");
-Twana5.login("");
-Twana6.login("");
-Twana7.login("");
-Twana8.login("");
+Twana1.login("ODEzODQzODY0NDc3NjMwNTA1.YDVTpQ.0P1rWJC96Nxwmww05j_vDEb5T4I");
+Twana2.login("ODEzODQ0NDc1ODcyNTQyNzgw.YDVTqQ.IFg_2pebf2z6sO9eWcJWD8yeYbg");
+Twana3.login("ODEzODQyMzMyMDU5MDQxNzk5.YDVTmQ.CV3PG9vs-bx2THNOrhQuFQ-F2EU");
+Twana4.login("ODEzODQyODM2NDE5MTE3MDk3.YDVTnQ.DFs-JvIhuUGmKdozzNTlopz-dUo");
+Twana5.login("ODEzODQzMzYxOTkxNjIyNzE2.YDVToQ.KEbRYIo_PNkAQTdNXC296cdjq2w");
+Twana6.login("ODEzODQ3NTYzMTIzNjg3NDU0.YDVTiA.BuhKKOrhu_Wqa-QhKk3pZHmhneY");
+Twana7.login("ODEzODQ2NTA3NjY0ODM0NTgw.YDVTgw.JpG_Ho-KXTWtgY6u6mYF_h6A3t8");
+Twana8.login("ODEzODQ1OTY0NjAzMjYwOTg4.YDVTfw.b5ZvbltJ8Ue3fi7OCfx_0gymEoo");
 Twana9.login("");
 Twana10.login("");
 Twana11.login("");
